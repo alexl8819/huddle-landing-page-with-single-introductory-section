@@ -23,11 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Mobile Screenshot](./screenshots/mobile.png)
+![Desktop Screenshot](./screenshots/desktop.png)
 
 ### Links
 
-- Live Site URL: [Huddle Landing Page with Single Introductory Section](https://slightlyfunctional.gitlab.io/huddle-landing-page-with-single-introductory-section)
+- Live Site URL: [Huddle Landing Page with Single Introductory Section](https://alexl8819.github.io/huddle-landing-page-with-single-introductory-section)
 
 ## My process
 
@@ -41,5 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [slightlyfunctional.com](https://slightlyfunctional.com)
-- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/slightlyfunctional)
+- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/alexl8819)
