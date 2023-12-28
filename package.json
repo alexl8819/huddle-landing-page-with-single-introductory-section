@@ -6,17 +6,21 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build --public-url ./ --dist-dir public"
+    "build": "parcel build --public-url ./ --dist-dir public",
+    "lint": "eslint ./src"
   },
-  "author": "slightlyfunctional",
+  "author": "alexl8819",
   "license": "GPL-3.0-or-later",
-  "dependencies": {
-    "@fontsource/open-sans": "^4.5.13",
-    "@fontsource/poppins": "^4.5.10",
-    "@fortawesome/fontawesome-free": "^6.2.0"
-  },
   "devDependencies": {
-    "parcel": "^2.8.3",
+    "@angular-eslint/template-parser": "^15.2.1",
+    "@fontsource/open-sans": "^5.0.20",
+    "@fontsource/poppins": "^5.0.8",
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@html-eslint/eslint-plugin": "^0.22.0",
+    "@html-eslint/parser": "^0.22.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-tailwindcss": "^3.11.0",
+    "parcel": "^2.8.2",
     "tailwindcss": "^3.3.1"
   }
 }

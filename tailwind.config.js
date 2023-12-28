@@ -16,7 +16,7 @@ module.exports = {
         'soft-magenta': 'hsl(300, 69%, 71%)'
       },
       fontSize: {
-        '4xl-custom': ['2.25rem', '3.5rem']
+        '4.5xl': ['2.5rem', '3.5rem']
       }
     },
   },
